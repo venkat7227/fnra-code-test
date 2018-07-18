@@ -1,0 +1,8 @@
+com\fnra\order\processor\OrderProcessor.class
+com\fnra\order\exception\OrderProcessingException.class
+com\fnra\order\util\OrderProcessorUtils.class
+com\fnra\order\mail\MailSender.class
+com\fnra\order\mail\MailSenderImpl.class
+com\fnra\payment\charger\PaymentCharger.class
+com\fnra\order\processor\OrderProcessorImpl.class
+com\fnra\order\processor\ProductInventory.class
